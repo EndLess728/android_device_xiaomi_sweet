@@ -104,7 +104,7 @@ PRODUCT_PACKAGES += \
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay \
-    $(LOCAL_PATH)/overlay-ssos
+    $(LOCAL_PATH)/overlay-lineage
 
 # rro_overlays
 PRODUCT_PACKAGES += \
